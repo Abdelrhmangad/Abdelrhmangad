@@ -32,7 +32,7 @@
 ### Other Tools
 
 ![strapi](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
-![pusher-js](https://img.shields.io/badge/pusher-js-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
+![pusher-js](https://img.shields.io/badge/pusher-js-2e7eea?style=for-the-badge&logo=netlify&logoColor=white)
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
@@ -46,7 +46,7 @@
 
 ![abdelrhmangad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrhmangad&show_icons=true&theme=radical)
 
-[![abdelrhmangad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdelrhmangad)](https://github.com/abdelrhmangad/github-readme-stats)
+<!-- [![abdelrhmangad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdelrhmangad)](https://github.com/abdelrhmangad/github-readme-stats) -->
 <!-- 
 ### My Github Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=abdelrhmangad)
