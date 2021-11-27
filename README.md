@@ -30,7 +30,7 @@
 
 
 ### Other Tools
-
+![stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![strapi](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
 ![pusher-js](https://img.shields.io/badge/pusher-js-2e7eea?style=for-the-badge&logo=netlify&logoColor=white)
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
