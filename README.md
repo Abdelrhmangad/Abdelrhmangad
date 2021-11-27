@@ -43,6 +43,8 @@
 ![freecodecamp](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
 
-### My Stats
+### My Github Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=abdelrhmangad)
 
+### Most Used Language 
+[](https://github-readme-stats.vercel.app/api/top-langs/?username={username})
