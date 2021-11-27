@@ -6,7 +6,9 @@
 <p align='center'>
   A Front-End developer.
 </p>
-
+<div align='center'>
+  ![abdelrhmangad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrhmangad&show_icons=true&theme=radical)
+</div>
 
 ### Front-End Development
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,8 +56,6 @@
 ![coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![freecodecamp](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
-
-![abdelrhmangad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrhmangad&show_icons=true&theme=radical)
 
 <!-- [![abdelrhmangad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdelrhmangad)](https://github.com/abdelrhmangad/github-readme-stats) -->
 <!-- 
