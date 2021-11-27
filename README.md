@@ -45,7 +45,7 @@
 
 ![abdelrhmangad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrhmangad&show_icons=true&theme=radical)
 
-[![abdelrhmangad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![abdelrhmangad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdelrhmangad)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 ### My Github Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=abdelrhmangad)
