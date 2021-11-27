@@ -42,6 +42,8 @@
 ![coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![freecodecamp](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrhmangad&show_icons=true&theme=radical)
 <!-- 
 ### My Github Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=abdelrhmangad)
