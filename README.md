@@ -50,7 +50,7 @@
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![googleMaps](https://img.shields.io/badge/google/maps-0052CC?style=for-the-badge&logo=googleMaps&logoColor=white)
+![googleMaps](https://img.shields.io/badge/google/maps-4285F4?style=for-the-badge&logo=googleMaps&logoColor=white)
 
 
 ### Education
