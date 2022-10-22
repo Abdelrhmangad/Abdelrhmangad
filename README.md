@@ -117,7 +117,7 @@
 
 
 ### Checkout my latest articles :bookmark_tabs:
-<a target="_blank" href="https://dev.to/a_m_h_gad/migrate-from-old-way-of-fetching-data-to-react-query-k44"><img src="https://alfari16.vercel.app/medium/0" alt="Medium Index 0"></a>
+<a target="_blank" href="https://dev.to/a_m_h_gad/migrate-from-old-way-of-fetching-data-to-react-query-k44"><img src="https://dev.to/a_m_h_gad/migrate-from-old-way-of-fetching-data-to-react-query-k44" alt="Medium Index 0"></a>
 
 
 
