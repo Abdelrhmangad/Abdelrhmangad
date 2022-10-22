@@ -116,10 +116,4 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Checkout my latest articles :bookmark_tabs:
-<a target="_blank" href="https://dev.to/a_m_h_gad/migrate-from-old-way-of-fetching-data-to-react-query-k44"><img src="https://dev.to/a_m_h_gad/migrate-from-old-way-of-fetching-data-to-react-query-k44" alt="Medium Index 0"></a>
-
-
-
-
 
